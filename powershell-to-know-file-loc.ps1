@@ -1,1 +1,1 @@
-echo 'hi india and telangana'
+echo 'hi india'
